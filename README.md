@@ -6,4 +6,4 @@ Predicting fraud is a slightly different case, when designing a predictive algor
 ### Xgboost - 75.66 %
 ### Xgboost with unstratified splitting - 85.84 % 
 
-###The script uses Python version=3.5.5, Keras=2.2.0, TensorFlow=1.8.0.
+### The script uses: Python version=3.5.5, Keras=2.2.0, TensorFlow=1.8.0.
