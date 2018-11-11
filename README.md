@@ -1,4 +1,4 @@
-# DeepLearning
+# Fraud Detection Using Deep Learning
 Predicting fraud is a slightly different case, when designing a predictive algorithm. 4 algorithms are implemented here using under sampling technique while using k-fold cross validation. 
 ## Accuracy
 ### Logistic regression - 65.99% 
